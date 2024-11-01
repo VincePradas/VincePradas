@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am bins taking Computer Science
+I am bins taking Computer Science in VSU, I'm in my 2nd year
 
 🌱 I’m currently learning the fundamentals of backend dev<br>
 
