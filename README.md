@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am bins taking Computer Science
 
-🌱 I’m currently delving into the fundamentals of backend dev<br>
+🌱 I’m currently learning the fundamentals of backend dev<br>
 
 
 ## 🌐 Socials:
