@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am bins taking Computer Science in VSU, I'm in my 2nd year
+I am bins, I'm in my 2nd year
 
 
 
